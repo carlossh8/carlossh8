@@ -9,7 +9,7 @@ My name is Carlos, I am passionate about programming. My goal is to act strongly
 
 Contact by 👇🏻
 
-[![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Araujo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcus-holanda-878b011b7/)](https://www.linkedin.com/in/carlos-ara%C3%BAjo-3b58271a1/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Araujo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-ara%C3%BAjo-3b58271a1/)](https://www.linkedin.com/in/carlos-ara%C3%BAjo-3b58271a1/) 
 
 <!--
 **carlossh8/carlossh8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
