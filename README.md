@@ -1,4 +1,5 @@
-## Olá, Eu sou o Carlos Araújo
+## Olá, Eu sou o Carlos
+#### Atualmente sou desenvolvendor Back-End na PaP. Porém, devido a minha paixão por programção, estou sempre aberto a aprender novas linguagens (tanto front-end quanto back-end)
  <div>
   <a href="https://github.com/carlossh8">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlossh8&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -11,6 +12,7 @@
   <img align="center" alt="Carlos-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg">
   <img align="center" alt="Carlos-mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Carlos-Ruby" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
+  <img align="right"  alt="Carlos-gif" height="177" width="240" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif">
 </div>
   
   ##
