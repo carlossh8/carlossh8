@@ -2,8 +2,8 @@
 #### Atualmente sou desenvolvendor Back-End na PaP. Porém, devido a minha paixão por programção, estou sempre aberto a aprender novas linguagens (tanto front-end quanto back-end)
  <div>
   <a href="https://github.com/carlossh8">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlossh8&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossh8&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=carlossh8&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossh8&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
