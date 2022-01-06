@@ -1,6 +1,6 @@
 ## Olá! Como vai?, Sou o Carlos. 😊
 
-- 📚 Estudando Formação em Ruby
+- 📚 Estudando Formação em Go Lang
 - 📖 Sempre em aprendizagem
   
   ##
@@ -16,6 +16,7 @@
   <img align="center" alt="Carlos-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg">
   <img align="center" alt="Carlos-mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Carlos-Ruby" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
+  <img align="center" alt="Carlos-go" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
   <img align="right"  alt="Carlos-gif" height="177" width="240" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif">
 </div>
   
