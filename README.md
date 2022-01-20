@@ -1,6 +1,6 @@
 ## Olá! Como vai?, Sou o Carlos. 😊
 
-- 📚 Estudando Formação em Go Lang
+- 📚 Estudando Formação em Testes Automatizados
 - 📖 Sempre em aprendizagem
   
   ##
