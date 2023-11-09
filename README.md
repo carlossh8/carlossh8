@@ -1,6 +1,6 @@
-## Olá! Como vai?, Sou o Carlos. 😊
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+Eu+sou+o+Carlos+Araujo+👋;Sejam+bem-vindos+ao+meu+GITHUB)](https://git.io/typing-svg)
 
-- 📚 Estudando Formação em Testes Automatizados
+- 📚 Estudando Testes Automatizados
 - 📖 Sempre em aprendizagem
   
   ##
